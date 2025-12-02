@@ -311,7 +311,7 @@ sudo firewall-cmd --add-service=https --permanent
 sudo firewall-cmd --reload
 ```
 
-![alt text](image.png)
+![alt text](evidences/33.png)
 
 ---
 
@@ -346,6 +346,7 @@ sudo nano /etc/logrotate.d/myapp
 }
 ```
 ![alt text](linux/evidences/36.png)
+
 ![alt text](linux/evidences/37.png)
 ```bash
 sudo logrotate -d /etc/logrotate.d/myapp
