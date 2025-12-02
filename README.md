@@ -73,7 +73,7 @@ sudo yum install nginx -y
 sudo apt install openjdk-11-jdk -y
 sudo yum install java-11 -y
 ```
-
+![alt text](evidences/3.png)
 ![alt text](evidences/4.png)
 
 ---
